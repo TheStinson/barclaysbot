@@ -1,0 +1,46 @@
+{
+  "type":"object",
+  "required":false,
+  "properties":{
+    "ASID": {
+      "type":"number",
+      "id": "ASID",
+      "required":false
+    },
+    "accountId": {
+      "type":"string",
+      "id": "accountId",
+      "required":false
+    },
+    "account_balance": {
+      "type":"number",
+      "id": "account_balance",
+      "required":false
+    },
+    "email": {
+      "type":"string",
+      "id": "email",
+      "required":false
+    },
+    "first_name": {
+      "type":"string",
+      "id": "first_name",
+      "required":false
+    },
+    "last_name": {
+      "type":"string",
+      "id": "last_name",
+      "required":false
+    },
+    "offer": {
+      "type":"null",
+      "id": "offer",
+      "required":false
+    },
+    "status": {
+      "type":"string",
+      "id": "status",
+      "required":false
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+"type": "object",
+"required": false,
+"properties": {
+"category": {
+"type": "string",
+"id": "category",
+"required": false
+},
+"discount": {
+"type": "string",
+"id": "discount",
+"required": false
+},
+"fees": {
+"type": "string",
+"id": "fees",
+"required": false
+},
+"offer_id": {
+"type": "number",
+"id": "offer_id",
+"required": false
+}
+}
+}
